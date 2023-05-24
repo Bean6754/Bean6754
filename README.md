@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Isabella, I like languages, linguistics, phisolophy, low-level programming, CPU architectures, old software, etc.
+
 <!--
 **Bean6754/Bean6754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
